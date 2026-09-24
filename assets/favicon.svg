@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="SHREE BIJAY AUTOMOBILES">
+  <title>SHREE BIJAY AUTOMOBILES</title>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#0a1929"/>
+  <circle cx="32" cy="33" r="16" fill="none" stroke="#d98a2b" stroke-width="3.4"/>
+  <g stroke="#d98a2b" stroke-width="1.9" stroke-linecap="round" opacity="0.85">
+    <path d="M32 24.5V41.5"/>
+    <path d="M23.5 33h17"/>
+  </g>
+  <circle cx="32" cy="33" r="4.6" fill="#f0bd72"/>
+  <rect x="10" y="54" width="24" height="3" rx="1.5" fill="#d98a2b"/>
+  <rect x="38" y="54" width="14" height="3" rx="1.5" fill="#ffffff" opacity="0.35"/>
+</svg>
